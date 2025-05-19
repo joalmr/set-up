@@ -11,7 +11,7 @@ curl -O https://raw.githubusercontent.com/joalmr/set-up/main/t_core.sh && curl -
 curl -O https://raw.githubusercontent.com/joalmr/set-up/main/t_core.sh && chmod +x t_*.sh && ./t_core.sh && rm t_core.sh
 ```
 
-### If you want to set up feature for Flutter, run the following command in your project:
+### If you want to set up a feature for Flutter, run the following command in your project:
 ```bash
 curl -O https://raw.githubusercontent.com/joalmr/set-up/main/t_feature.sh && chmod +x t_*.sh && ./t_feature.sh && rm t_feature.sh
 ```
