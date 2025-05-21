@@ -13,6 +13,8 @@ flutter pub add intl
 flutter pub add equatable
 # Agrega el paquete logger al proyecto Flutter
 flutter pub add logger
+# Agrega el paquete flutter_dotenv al proyecto Flutter
+flutter pub add flutter_dotenv
 
 # Función para crear archivos Dart con contenido básico
 crear_archivo_dart() {
