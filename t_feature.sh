@@ -65,9 +65,7 @@ class RepositoryImp implements Repository{
 
 mkdir -p lib/features/$feature_name/domain/entities
 crear_archivo_dart "lib/features/$feature_name/domain/entities/${feature_name}_entities.dart" '''//
-import "package:equatable/equatable.dart";
-
-class Entity extends Equatable {
+class Entity {
     // ...
     // An entity represents a real-world object with a distinct identity.
 }
