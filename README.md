@@ -6,7 +6,7 @@ Este repositorio proporciona scripts para automatizar la creación de la arquite
 
 - **t_core.sh**: Crea la estructura de carpetas principal del proyecto.
 - **t_feature.sh**: Genera la estructura para una nueva funcionalidad o módulo.
-- **t_arch.sh**: Ejecuta ambos scripts anteriores para configurar la arquitectura completa del proyecto.
+- **t_arch.sh**: Ejecuta ambos scripts anteriores para configurar la arquitectura completa del proyecto e instala paquetes.
 
 ## 🛠️ Requisitos previos
 
