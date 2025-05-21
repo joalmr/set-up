@@ -49,15 +49,22 @@ El script t_arch.sh crea la siguiente estructura de carpetas:
 ```css
 lib/
 ├── core/
-│   ├── models/
-│   ├── services/
-│   └── utils/
+│   ├── animations/
+│   ├── config/
+│   ├── constants/
+│   ├── errors/
+│   ├── routes/
+│   ├── theme/
+│   ├── utils/
+│   └── widgets/
 ├── features/
 │   └── example_feature/
 │       ├── data/
 │       ├── domain/
 │       └── presentation/
-└── main.dart
+│── main.dart
+│── .env
+└── .env.dev
 ```
 
 > Nota: Puedes personalizar los nombres de las carpetas y archivos según las necesidades de tu proyecto.
