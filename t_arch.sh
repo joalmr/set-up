@@ -3,18 +3,8 @@
 ./t_core.sh
 ./t_feature.sh
 
-# Agrega el paquete provider al proyecto Flutter
-flutter pub add provider
-# Agrega el paquete go_router al proyecto Flutter
-flutter pub add go_router
-# Agrega el paquete intl al proyecto Flutter
-flutter pub add intl
-# Agrega el paquete equatable al proyecto Flutter
-flutter pub add equatable
-# Agrega el paquete logger al proyecto Flutter
-flutter pub add logger
-# Agrega el paquete flutter_dotenv al proyecto Flutter
-flutter pub add flutter_dotenv
+# Agrega paquetes al proyecto Flutter
+flutter pub add go_router provider equatable intl logger flutter_dotenv
 
 # Función para crear archivos Dart con contenido básico
 crear_archivo_dart() {
